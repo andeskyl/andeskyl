@@ -30,7 +30,7 @@
 
 ---
 
-### :blue_book: Current Courses:
+### :blue_book: Recent Courses:
 
 | Course Code                 | Course Name                              |
 | -------------------- | -------------------------------------------- |
