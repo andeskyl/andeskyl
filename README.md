@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Andes Kei
 
 ### :cloud: About Me:
-- :cat: I am a final-year financial technology student studying at the Chinese University of Hong Kong (CUHK)
-- :robot: I am currently working on privacy-preserving machine learning and automated machine learning
+- :cat: I am a Ph.D. student in Information Engineering at the Chinese University of Hong Kong (CUHK)
+- :robot: I am currently working on privacy-preserving machine learning and blockchain
 - :computer: I am also interested in software, web, and mobile app development
 
 ---
@@ -22,6 +22,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40">
 <img src="./icons/scikit-learn.svg" width="40">
