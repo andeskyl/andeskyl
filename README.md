@@ -35,11 +35,10 @@
 
 | Course Code                 | Course Name                              |
 | -------------------- | -------------------------------------------- |
-| CSCI3150 | Introduction to Operating Systems |
-| CSCI3310 | Mobile Computing and Application Development |
-| ESTR4140 | Foundation of Applied Deep Learning |
-| ESTR4999 | Graduation Thesis II |
-| IERG4350 | Cloud Computing Security |
+| ENGG5301 | Information Theory |
+| ENGG5501 | Foundations of Optimization |
+| IERG6200 | Advanced Topics in Embedded AI |
+| IERG8006 | Thesis Research |
 
 ---
 
