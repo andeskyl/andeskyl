@@ -35,9 +35,7 @@
 
 | Course Code                 | Course Name                              |
 | -------------------- | -------------------------------------------- |
-| ENGG5301 | Information Theory |
-| ENGG5501 | Foundations of Optimization |
-| IERG6200 | Advanced Topics in Embedded AI |
+| ENGG5104 | Image Processing and Computer Vision |
 | IERG8006 | Thesis Research |
 
 ---
