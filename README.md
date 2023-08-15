@@ -35,7 +35,7 @@
 
 | Course Code                 | Course Name                              |
 | -------------------- | -------------------------------------------- |
-| ENGG5104 | Image Processing and Computer Vision |
+| CSCI5390 | Advanced GPU Programming |
 | IERG8006 | Thesis Research |
 
 ---
