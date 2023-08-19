@@ -39,15 +39,6 @@
 | IERG8006 | Thesis Research |
 
 ---
-
-### :bar_chart: My Github Stat:
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andespooh258"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andespooh258&show_icons=true&count_private=true"></a>
-</p>
-
----
 ### 🌎 Contact Me:
-<a href="mailto:andespooh258@gmail.com"><img src="./icons/gmail.svg" width="40"></a>
 <a href="https://www.linkedin.com/in/andes-kei-3b96681a8/"><img src="./icons/linkedin.svg" width="40"></a>
 <a href="https://github.com/AndesPooh258"><img src="./icons/github.svg" width="40"></a>
