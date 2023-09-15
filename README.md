@@ -35,7 +35,7 @@
 
 | Course Code                 | Course Name                              |
 | -------------------- | -------------------------------------------- |
-| CSCI5390 | Advanced GPU Programming |
+| ENGG5781 | Matrix Analysis and Computations |
 | IERG8006 | Thesis Research |
 
 ---
