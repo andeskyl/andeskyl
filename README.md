@@ -35,7 +35,7 @@
 
 | Course Code                 | Course Name                              |
 | -------------------- | -------------------------------------------- |
-| ENGG5781 | Matrix Analysis and Computations |
+| ENGG5202 | Pattern Recognition |
 | IERG8006 | Thesis Research |
 
 ---
