@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Andes Kei
 
 ### :cloud: About Me:
-- :cat: I am a Ph.D. student in Information Engineering at the Chinese University of Hong Kong (CUHK)
+- :cat: I am a Ph.D. candidate in Information Engineering at the Chinese University of Hong Kong (CUHK)
 - :robot: I am currently working on privacy-preserving machine learning and blockchain
 - :computer: I am also interested in software, web, and mobile app development
 
@@ -28,15 +28,6 @@
 <img src="./icons/scikit-learn.svg" width="40">
 <img src="./icons/pytorch.svg" width="40">
 </p>
-
----
-
-### :blue_book: Recent Courses:
-
-| Course Code                 | Course Name                              |
-| -------------------- | -------------------------------------------- |
-| ENGG5202 | Pattern Recognition |
-| IERG8006 | Thesis Research |
 
 ---
 ### 🌎 Contact Me:
